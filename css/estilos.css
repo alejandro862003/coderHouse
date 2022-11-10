@@ -175,6 +175,7 @@ article{
     text-align: center;
     margin-top: -10%;
     padding-bottom: 2rem;
+    font-size: 45px;
 }
 /*
 .contenedor-galeria{
@@ -381,8 +382,8 @@ textarea{
         width: 100%;
         height: 200px;
     }
-    .titulo{
-        font-size: 45px;
+    .titulo {
+        font-size: 30px;
     }
     .contenedor-galeria {
         display: grid;
